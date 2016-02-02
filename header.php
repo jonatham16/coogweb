@@ -70,7 +70,7 @@
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Trabaja <span class="caret"></span></a>
 									<ul class="dropdown-menu">
-										<li><a href="#">Registrate</a></li>
+										<li><a href="registrate.php">Registrate</a></li>
 										<li><a href="#">Iniciar Session</a></li>
 									</ul>
 								</li>
