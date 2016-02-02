@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Document</title>
-		<!-- Local bootstrap CSS & JS -->
-		<link rel="stylesheet" media="screen" href="css/bootstrap2.css">
-		<link href="css/carousel.css" media="screen" rel="stylesheet">
-		<link rel="stylesheet" href="css/ripple.css" />
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-		<link href="images/logo-ico-azul.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	</head>
-	<body>
-	
+
 <?php
 include("header.php");
 ?>		
