@@ -5,7 +5,7 @@
     outline: none !important; /* remove dotted border */
 }
 .btn:after,
-.nav a:after {
+.nav a:after{
     content: "";
     background: rgba(255,255,255,0.3);
     display: block;
