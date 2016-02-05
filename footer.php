@@ -41,6 +41,7 @@
 						</div>
 					</div>
 				</div>
+				<a href="#0" class="cd-top cd-is-visible cd-fade-out">Top</a>
 				<div class="container">
 					<address>
         				<p class="text-muted text-center">© Copyright 2016, Grupo Cooguasimales. Todos los derechos resevados</p>
@@ -49,3 +50,16 @@
 			</footer>
 
 		</div>
+
+<!-- Local bootstrap CSS & JS -->
+<script src="js/jquery-1.11.2.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/funciones.js"></script>
+<script>
+/*$('.carousel').carousel({
+interval: 16000
+});
+		*/
+</script>
+</body>
+</html>

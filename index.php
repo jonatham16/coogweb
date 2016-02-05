@@ -54,7 +54,7 @@ include("header.php");
 				</a>
 			</div>
 		</div>
-		
+		<!-- /.carousel -->
 			<section class="container-fluid servicios text-center">
 				<h1 class="titulo-seccion">NUESTROS SERVICIOS</h1>
 				<p class="text-muted subtitulo-seccion"><i>Ofrecemos un portafolio amplio de servicios</i></p>
@@ -99,15 +99,4 @@ include("header.php");
 <?php
 include("footer.php");
 ?>
-<!-- /.carousel -->
-<!-- Local bootstrap CSS & JS -->
-<script src="js/jquery-1.11.2.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script>
-/*$('.carousel').carousel({
-interval: 16000
-});
-		*/
-</script>
-</body>
-</html>
+
