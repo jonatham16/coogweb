@@ -14,7 +14,9 @@ include("header.php");
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="item active">
-						<img class="first-slide img-responsive" src="http://lorempixel.com/1200/560/business/" alt="First slide">
+						<!-- <img class="first-slide img-responsive" src="http://lorempixel.com/1200/560/business/" alt="First slide">-->
+						<img class="first-slide img-responsive" src="images/cooguasimales-carrousel.jpg" alt="First slide">
+						
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Bienvenido! </h1>
@@ -34,7 +36,7 @@ include("header.php");
 						</div>
 					</div>
 					<div class="item">
-						<img class="third-slide img-responsive" src="images/cobranzas.jpg" alt="Third slide">
+						<img class="third-slide img-responsive" src="images/cobranzas3.jpg" alt="Third slide">
 						<div class="container">
 							<div class="carousel-caption">
 								<h1>Cobranzas</h1>
@@ -62,7 +64,7 @@ include("header.php");
 					<article class="col-sm-6 col-md-3">
 						<a target="_blank" href="#"><img class="img-responsive" src="images/cobranzas.png" alt="" width="100" height="62"></a>
 						<h3>Cobranzas</h3>
-						<p class="text-muted">Brindamos mensajería expresa, con excelencia y calidad, avalada por organizaciones de larga trayectoria en el panorama nacional, departamental y local. </p>
+						<p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil atque ducimus minima alias aliquid architecto aliquam perferendis, unde officiis molestiae illum optio, adipisci facilis quasi assumenda nostrum rerum id. Laborum. </p>
 					</article>
 					<article class="col-sm-6 col-md-3">
 						<a target="_blank" href="#"><img class="img-responsive" src="images/envios.png" alt="" width="100" height="100"></a>

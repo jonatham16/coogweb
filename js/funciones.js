@@ -24,7 +24,7 @@ jQuery(document).ready(function($){
 		 	}, scroll_top_duration
 		);
 	});
-	
+
 	$(".menu-enlace").click (function (e) {
 	   e.preventDefault(); //will stop the link href to call the blog page
 	   var url;
@@ -47,6 +47,10 @@ jQuery(document).ready(function($){
      });
 
 
+	$(document).bind("contextmenu",function(e){
+		return false;
+	});
+	
 /*
 	$(document).on('click', "a.menu-enlace", function(e){		
 	   e.preventDefault(); //will stop the link href to call the blog page
