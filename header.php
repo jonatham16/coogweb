@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Document</title>
+		<title>Grupo Cooguasimales</title>
 		<!-- Local bootstrap CSS & JS -->
 		<link rel="stylesheet" media="screen" href="css/bootstrap2.css">
 		<link href="css/carousel.css" media="screen" rel="stylesheet">
@@ -40,49 +40,49 @@
 							<!--
 							<a class="navbar-brand" href="#">Grupo Cooguasimales</a>
 							-->
-							<div class="logo-cooguasimales"><img src="images/logo-cooguasimales.png"></div>
+							<div class="logo-cooguasimales"><a href="index.php"><img src="images/logo-cooguasimales.png"></a></div>
 							
 						</div>
 						<div id="navbar" class="navbar-collapse collapse">
 							<ul class="nav navbar-nav">
-								<li class="active"><a href="index.php">Inicio</a></li>
-								<li><a href="nosotros.php">Nosotros</a></li>
+								<li><a href="index.php">Inicio</a></li>
+								<li><a class="menu-enlace" href="nosotros.php">Nosotros</a></li>
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Empresas <span class="caret"></span></a>
 									<ul class="dropdown-menu">
-										<li><a href="envios.php">Envientrega</a></li>
-										<li><a href="http://multiusospass.com/inicio.html">Multiusos Pass</a></li>
-										<li><a href="#">Pago Facil</a></li>
-										<li><a href="http://www.servicecobranzas.com/">Cobranzas</a></li>
-										<li><a href="http://www.vocessip.com/">Vocessip</a></li>
+										<li><a class="menu-enlace" href="envios.php">Envientrega</a></li>
+										<li><a class="menu-enlace" href="http://multiusospass.com/inicio.html">Multiusos Pass</a></li>
+										<li><a class="menu-enlace" href="#">Pago Facil</a></li>
+										<li><a class="menu-enlace" href="http://www.servicecobranzas.com/">Cobranzas</a></li>
+										<li><a class="menu-enlace" href="http://www.vocessip.com/">Vocessip</a></li>
 										<li role="separator" class="divider"></li>
 										<li class="dropdown-header">ONG</li>
-										<li><a href="#">Creer Colombia</a></li>
+										<li><a class"menu-enlace" href="#">Creer Colombia</a></li>
 									</ul>
 								</li>
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contacto <span class="caret"></span></a>
 									<ul class="dropdown-menu">
-										<li><a href="ubicanos.php">Ubicanos</a></li>
-										<li><a href="#">PQR</a></li>
+										<li><a class="menu-enlace" href="ubicanos.php">Ubicanos</a></li>
+										<li><a class="menu-enlace" href="#">PQR</a></li>
 									</ul>
 								</li>
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Trabaja <span class="caret"></span></a>
 									<ul class="dropdown-menu">
-										<li><a href="registrate.php">Registrate</a></li>
-										<li><a href="#">Iniciar Session</a></li>
+										<li><a class="menu-enlace" href="registrate.php">Registrate</a></li>
+										<li><a class="menu-enlace" href="#">Iniciar Session</a></li>
 									</ul>
 								</li>
 								<li class="dropdown">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Aplicaciones <span class="caret"></span></a>
 									<ul class="dropdown-menu">
-										<li><a href="http://apps.rackspace.com/index.php">Correo</a></li>
-										<li><a href="http://181.49.24.110/glpi2/glpi/">GLPI</a></li>
-										<li><a href="http://181.49.24.110:5000/webman/index.cgi">NAS</a></li>
+										<li><a class="menu-enlace" href="http://apps.rackspace.com/index.php">Correo</a></li>
+										<li><a class="menu-enlace" href="http://181.49.24.110/glpi2/glpi/">GLPI</a></li>
+										<li><a class="menu-enlace" href="http://181.49.24.110:5000/webman/index.cgi">NAS</a></li>
 									</ul>
 								</li>
-								<li><a href="noticias.php">Noticias</a></li>
+								<li><a class="menu-enlace" href="noticias.php">Noticias</a></li>
 							</ul>
 						</div>
 					</div>

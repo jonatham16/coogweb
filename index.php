@@ -83,7 +83,6 @@ include("header.php");
 				</div>
 			</section>
 			
-		
 		<div class="container-fluid">
 			<div class="container-fluid aliados">
 				<h1 class="titulo-seccion">ALIADOS ESTRATÉGICOS</h1>
