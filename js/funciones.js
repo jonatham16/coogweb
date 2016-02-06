@@ -24,16 +24,9 @@ jQuery(document).ready(function($){
 		 	}, scroll_top_duration
 		);
 	});
-/*
-	$(".menu-enlace").click(function(evento){
-	   evento.preventDefault();
-	   alert("entrooo");
-	});
-*/
+	
 	$(".menu-enlace").click (function (e) {
 	   e.preventDefault(); //will stop the link href to call the blog page
-//	   $('.nav li.active').removeClass("active");
-//       $(this).parent().addClass("active");
 	   var url;
 	   //alert("entrooo");
 	   url=$(this).attr('href');
